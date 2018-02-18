@@ -9,4 +9,5 @@ install:
 script:
   - yarn run build
 after_script:
-  - yarn run deploy 
+  - yarn run deploy
+   
