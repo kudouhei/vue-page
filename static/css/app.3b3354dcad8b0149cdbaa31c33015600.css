@@ -1,0 +1,2 @@
+.page-container:after{content:".";display:block;height:0;overflow:hidden;clear:both}.page-container{zoom:1}.page-container li{list-style:none;float:left;padding:0 8px;cursor:pointer;border:1px solid #ccc;height:28px;line-height:28px;margin-right:8px;border-radius:5px}.page-container li:last-child{margin-right:0}.activePage{color:#fff!important;background:#1c84c6;border-color:#1c84c6!important}.nomore{color:#b5b5b5!important;cursor:not-allowed!important}
+/*# sourceMappingURL=app.3b3354dcad8b0149cdbaa31c33015600.css.map */
