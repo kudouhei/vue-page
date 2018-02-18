@@ -8,7 +8,7 @@
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "build": "node build/build.js",
-    "deploy": "gh-pages-with-token -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "gh-pages": "^1.1.0",
